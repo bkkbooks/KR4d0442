@@ -509,6 +509,7 @@ markers:
       ', id: KR4d0442_krp_004-bkkkrnewl115}
   - {type: line-break, offset: 2047, content: '', id: KR4d0442_WYG_004-7a08}
   - {type: punctuation, offset: 2058, content: (, id: KR4d0442_krp_004-bkkpn1}
+  - {type: voice, offset: 2058, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 2059, content: /, id: KR4d0442_krp_004-bkkpn2}
   - {type: punctuation, offset: 2059, content: ), id: KR4d0442_krp_004-bkkpn3}
   - {type: 'kr:newline', offset: 2068, content: '
@@ -573,6 +574,7 @@ markers:
   - {type: variant, offset: 2289, length: 3, content: 孑焉正, WYG: 􅐐}
   - {type: 'kr:non-cjk', offset: 2290, content: '*', id: KR4d0442_krp_004-bkkkrnonc2}
   - {type: punctuation, offset: 2290, content: (, id: KR4d0442_krp_004-bkkpn4}
+  - {type: voice, offset: 2290, length: 2, name: note, id: n2}
   - {type: 'kr:non-cjk', offset: 2291, content: '-', id: KR4d0442_krp_004-bkkkrnonc3}
   - {type: 'kr:non-cjk', offset: 2292, content: '+?', id: KR4d0442_krp_004-bkkkrnonc4}
   - {type: punctuation, offset: 2292, content: ), id: KR4d0442_krp_004-bkkpn5}
@@ -762,6 +764,7 @@ markers:
   - {type: line-break, offset: 2930, content: '', id: KR4d0442_WYG_004-10a06}
   - {type: indent, offset: 2930, content: 　　, id: KR4d0442_krp_004-bkkind16}
   - {type: punctuation, offset: 2934, content: (, id: KR4d0442_krp_004-bkkpn6}
+  - {type: voice, offset: 2934, length: 6, name: note, id: n3}
   - {type: substitution, offset: 2936, original: 废, replacement: 廢, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16770}}
   - {type: punctuation, offset: 2937, content: /, id: KR4d0442_krp_004-bkkpn7}
   - {type: punctuation, offset: 2940, content: ), id: KR4d0442_krp_004-bkkpn8}
@@ -1345,4 +1348,4 @@ markers:
 
       ', id: KR4d0442_krp_004-bkkkrnewl287}
   back: []
-hash: sha256:ed727cd1961118a40b52b04b13e9a7c4deccb4e5281e839e0026788af959ff4e
+hash: sha256:572609d435881f6e38bdab935d560a61dea14d51db0375e31cf5898850277eb8
